@@ -5,5 +5,7 @@
     <link rel="icon" href="img/inscription.ico" />
 </head>
     <body>
-        <p>TEST</p>
+    <form method="POST" action="Formulaire.php">
+        <input type="submit" name="Formulaire" value="Formulaire d'inscription" >
+    </form>
     </body>
